@@ -1,2 +1,2 @@
-# react-e-js
-repositório para praticar react e javascript
+# React e JavaScript
+Repositório para praticar React e JavaScript
